@@ -26,6 +26,7 @@
     />
     <hr />
     <a href="./public/about.html"> About Me</a>
+    </Br>
     <a href="./public/contact.html">Contact Me</a>
   </body>
 </html>
